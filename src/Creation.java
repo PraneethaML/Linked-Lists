@@ -18,6 +18,8 @@ public class Creation {
 			ll.add(3);
 			System.out.println(ll.toString());
 		//cracking the coding Linked Lists 2.1
+			
+			// REMOVE DUPLICATES FROM UNSORTED LINKED LISTS
 		/*-
 		 * 
 		 *  System.out.println("before removing duplicates");
@@ -38,7 +40,7 @@ public class Creation {
 			
 			*/
 			
-		//2.2
+		//2.2 FIND K'TH TO LAST ELEMENT OF A SINGLY LINKED LIST
 			
 		/*	
 		 * 
@@ -50,7 +52,7 @@ public class Creation {
 	       */
 		
 			
-		//2.4
+		//2.4 PARTITION A LINKED LIST TO A VALUE X SUCH THAT NODES LESS THAN X COME BEFORE ALL NODES GREATER THAN OR EQUAL TO X
 		/*
 		 * 
 		 * 
