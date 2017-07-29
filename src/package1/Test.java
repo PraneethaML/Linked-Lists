@@ -55,6 +55,13 @@ public class Test {
 	}
 
 	@SuppressWarnings("null")
+	/* 2 NUMBERS REPRESENTED BY A LINKED LIST-
+	 *  EACH NODE CONTAINS A SINGLE DIGIT- 
+	 *  DIGITS STORED IN REVERSE ORDER SUCH THAT 1'S DIGIT IS AT THE HEAD OF THE LIST-
+	 *   WRITE A FUNCTION THAT ADDS THE TWO NUMBERS AND RETURNS THE SUM AS A LINKED LIST */
+	
+	
+	
 	private static LinkedList<Integer> addLists(LinkedList<Integer> l1, LinkedList<Integer> l2) {
 		LinkedList<Integer> sum = new LinkedList<Integer>();
 		// TODO Auto-generated method stub
